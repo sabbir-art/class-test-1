@@ -1,0 +1,157 @@
+.main-menu{
+    background-color: #fff;
+}
+.logo{
+    color: #515151!important;
+    text-transform: capitalize;
+}
+.menu-link {
+    font-size: 20px;
+    color:#515151!important;
+    text-transform: capitalize;
+}
+.menu-link:hover,.active a{
+    color:#fff!important;
+    background-color: #19ca92;
+}
+/*********slider area start heare**************/
+.caption{
+    text-align: left;
+    margin-top: 10px!important;
+    width: 25%;
+}
+.carousel-btn{
+    border: 2px solid #fff;
+    border-radius: 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #fff;\
+    padding: 10px 25px;
+}
+/*********course area start heare*********/
+.card-top{
+    width: 70px;
+    height: 70px;
+    background-color: #3f51b5;
+    border-radius: 100px;
+}
+.card-top h4{
+    text-align: center;
+    color: #fff;
+}
+/***********sing up area start heare********/
+.singup{
+    background-color: #252020;
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    float: right;
+}
+.singup h4{
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.singup input{
+    color: #99978e;
+}
+.submit-btn{
+    margin-left: 75px;
+    border: transparent;
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.input-group{
+    margin-top: 20px;
+    text-align: center;
+}
+.input-group input{
+    background-color:transparent;
+    border: transparent;
+    border-bottom: 2px solid #99978e;
+}
+/******teachers area start*********/
+.teachers-area{
+    background-color: #f9f9f9;
+}
+.t-titel{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+/*****coures area start heare**********/
+.coures-titel{
+    text-align: center;
+    text-transform: capitalize
+}
+/*****student review area************/
+.std-revie{
+    text-transform: capitalize;
+    color:#000!important;
+    text-align: center;
+}
+.student-review-area{
+ background-color:#f9f9f9; 
+}
+.student-review{
+    border: transparent!important;  
+}
+.review-card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.review-titel h5{
+float: right;
+margin-right: 140px;
+}
+.review-titel {
+   text-align: right;
+ }
+
+/******contactarea start heare*****/
+.contact-area{
+    background-color: #3f51b5;
+}
+.titel{
+    text-transform: capitalize;
+    color:#fff!important;
+}
+.pic {
+    width: 100%;
+}
+
+/****footer area start heare******/
+.footer-area{
+    background-color: #252020;
+}
+.footer-card{
+    background-color: transparent!important;
+    border: transparent!important;
+}
+.footer-i{
+    background-color: #29ca8e;
+    font-size: 20px;
+}
+.footer-card h6{
+   color: #fff!important;
+   text-transform: capitalize;
+}
+.footer-card p{
+    color: #829090!important;
+    text-transform: capitalize;
+    font-size: 10px!important;
+ }
+.card-button{
+    border-radius: 20px!important;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 5px 20px ;
+}
